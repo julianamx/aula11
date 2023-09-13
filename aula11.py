@@ -117,7 +117,6 @@ c2 = Carro(120,False,'branco')
 c3 = Carro(300,False,'vermelho') 
 
 c1.ligar()
-
 c1.Mostrar()
 c2.Mostrar()
 c3.Mostrar()        
